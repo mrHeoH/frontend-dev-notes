@@ -30,6 +30,7 @@
 * [massCode](https://masscode.io/) - бесплатный органайзер сниппетов.
 * [Postman](https://www.postman.com/) - основной инструмент для работы с API, OpenAPI (Swagger) документами.
 * [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source альтернатива Postman
+* [Yaak API Client](https://github.com/mountain-loop/yaak) - Open-Source клиент для работы с API, GraphQL, SSE, WebSocket и gRPC
 
 ### Сервисы
 
@@ -74,6 +75,14 @@
 * [Webpack](https://webpack.js.org/) - мощный и гибкий инструмент с огромной экосистемой плагинов и загрузчиков. Подходит для сложных проектов, где требуется тонкая настройка сборки, code splitting, tree shaking и поддержка legacy-кода. Медленнее Vite в development, но более универсален.
 * [Gulp](https://gulpjs.com/) - таск-раннер, а не сборщик, но его часто используют для автоматизации задач (минификация, конкатенация, препроцессинг CSS). Гибкий и простой для написания кастомных задач, но требует ручной настройки, в отличие от Vite и Webpack, которые работают "из коробки". Уступает в производительности и удобстве для современных SPA-проектов.
 * [Parcel](https://parceljs.org/) - быстрый и простой бандлер для JavaScript и веб-приложений с нулевой настройкой (zero-config).
+
+### UI/UX
+
+#### Компоненты TailwindCSS
+
+* [FlyonUI](https://flyonui.com/) - библиотека компонентов Tailwind CSS с открытым исходным кодом, семантическими классами и мощными плагинами JS.
+* [PenguinUI](https://www.penguinui.com/) - бесплатный набор компонентов Tailwind CSS с Alpine JS
+* [Tailwind Components](https://github.com/unlight/tailwind-components?tab=readme-ov-file) - коллекция ссылок на различные компоненты
 
 ### Разное
 
