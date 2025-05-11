@@ -12,6 +12,7 @@
 * [JavaScript Roadmap](https://roadmap.sh/javascript)
 * [TypeScript](https://roadmap.sh/typescript)
 * [Node.js Developer](https://roadmap.sh/nodejs)
+* [JavaScript Standard Style](https://github.com/standard/standard)
 
 ### Программы
 
@@ -65,9 +66,17 @@
 
 ### Тестирование
 
-* [Jest](https://jestjs.io/)
-* [Cypress](https://www.cypress.io/)
-* [Playwright](https://playwright.dev/)
+* [Jest](https://jestjs.io/) - модульное тестирование JavaScript.
+* [Cypress](https://www.cypress.io/) - полноценная среда сквозного тестирования для всего, что работает в браузере и за его пределами.
+* [Playwright](https://playwright.dev/) - надежное сквозное тестирование современных веб-приложений.
+* [Mocha](https://github.com/mochajs/mocha) - простая и гибкая среда тестирования JavaScript для node.js и браузера.
+* [Jasmine](https://github.com/jasmine/jasmine) - простой фреймворк для тестирования JavaScript без DOM.
+
+### Инструменты контроля качества
+* [Prettier](https://github.com/prettier/prettier) - инструмент для форматирования кода.
+* [jshint](https://github.com/jshint/jshint/) - инструмент, который помогает обнаружить ошибки и потенциальные проблемы в вашем коде JavaScript.
+* [eslint](https://github.com/eslint/eslint) - инструмент для поиска и исправления проблем в javascript коде.
+* [js-beautify](https://github.com/beautifier/js-beautify) -  npm cli и библиотека для форматирования JS-кода.
 
 ### Сборка проекта
 
@@ -75,6 +84,7 @@
 * [Webpack](https://webpack.js.org/) - мощный и гибкий инструмент с огромной экосистемой плагинов и загрузчиков. Подходит для сложных проектов, где требуется тонкая настройка сборки, code splitting, tree shaking и поддержка legacy-кода. Медленнее Vite в development, но более универсален.
 * [Gulp](https://gulpjs.com/) - таск-раннер, а не сборщик, но его часто используют для автоматизации задач (минификация, конкатенация, препроцессинг CSS). Гибкий и простой для написания кастомных задач, но требует ручной настройки, в отличие от Vite и Webpack, которые работают "из коробки". Уступает в производительности и удобстве для современных SPA-проектов.
 * [Parcel](https://parceljs.org/) - быстрый и простой бандлер для JavaScript и веб-приложений с нулевой настройкой (zero-config).
+* [Rollup](https://github.com/rollup/rollup) - модульный упаковщик для JavaScript, который компилирует небольшие фрагменты кода в нечто большее и более сложное, например, библиотеку или приложение.
 
 ### UI/UX
 
