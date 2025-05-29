@@ -45,6 +45,9 @@
 * [CodeRun](https://coderun.yandex.ru/catalog)
 * [DevStation](https://dev-station.ru/simulator/js)
 * [LeetCode](https://leetcode.com/)
+* [HackerRank](https://www.hackerrank.com/)
+* [Timus Online Judge](https://acm.timus.ru/)
+
 
 
 ### CSS фреймворки
@@ -96,7 +99,8 @@
 
 ### Разное
 
-* [Free for Developers](https://free-for.dev/#/) - бесплатные инструменты для разработчиков.
+* [Free for Developers](https://free-for.dev/) - бесплатные инструменты для разработчиков.
+* [Lucide Icons](https://lucide.dev/icons/) - большой набор SVG иконок.
 
 
 ---
@@ -111,6 +115,7 @@
 * [WebReference](https://webref.ru/html):HTML - справочник по HTML.
 * [WebReference](https://webref.ru/css):CSS - справочник по CSS.
 * [cssReference](https://cssreference.io/) - справочник по свойствам.
+* [Interneting Is Hard](https://internetingishard.netlify.app/) - Руководства по веб-разработке для начинающих
 * [HTMLBASE](https://htmlbase.ru/) - «самый современный справочник по HTML и CSS»
 * [HTML5CSS](https://html5css.ru/html/default.php) - HTML учебник для начинающих
 * [Самоучитель HTML5](https://htmlbook.ru/samhtml5)
@@ -142,6 +147,7 @@
 #### Полезные ресурсы
 
 * [Flexbox Froggy](https://flexboxfroggy.com/) - освоение основ синтаксиса flexbox.
+
 
 
 ---
