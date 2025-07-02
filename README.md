@@ -47,8 +47,7 @@
 * [LeetCode](https://leetcode.com/)
 * [HackerRank](https://www.hackerrank.com/)
 * [Timus Online Judge](https://acm.timus.ru/)
-
-
+* [Frontend для начинающих](https://cups.online/ru/training/3)
 
 ### CSS фреймворки
 
